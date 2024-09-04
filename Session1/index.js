@@ -32,6 +32,10 @@ decrementButtonElement.addEventListener("click", () => {
 // });
 
 const containerElement = document.getElementById("container");
+// containerElement.className = "mt-4 w-100 grid";
+// containerElement.classList =
+// containerElement.innerHTML = "";
+// containerElement.id = "asdasdasdas"
 
 containerElement.addEventListener("click", () => {
   containerElement.style.background = "green";
